@@ -179,3 +179,9 @@ p {
     transform: rotate(0);
   }
 }
+
+@media (min-width: 1800px) {
+  .iphone {
+    width: 40%;
+  }
+}
